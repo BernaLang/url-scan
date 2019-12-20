@@ -1,0 +1,616 @@
+{
+  "treeDepth": {
+    "tag": "a",
+    "depth": 11,
+    "parents": [
+      "li",
+      "ul",
+      "li",
+      "ul",
+      "div",
+      "div",
+      "div",
+      "nav",
+      "div",
+      "body",
+      "html"
+    ]
+  },
+  "elementCount": {
+    "html": 1,
+    "head": 1,
+    "title": 1,
+    "meta": 10,
+    "link": 17,
+    "script": 16,
+    "body": 1,
+    "div": 68,
+    "nav": 1,
+    "ul": 7,
+    "li": 15,
+    "a": 23,
+    "i": 21,
+    "span": 4,
+    "button": 2,
+    "img": 14,
+    "section": 7,
+    "h2": 13,
+    "p": 32,
+    "h3": 3,
+    "br": 4,
+    "footer": 1,
+    "address": 2,
+    "h4": 2,
+    "form": 1,
+    "input": 2
+  },
+  "attributesCount": {
+    "meta": {
+      "charset": 1,
+      "name": 3,
+      "content": 9,
+      "property": 6
+    },
+    "link": {
+      "href": 17,
+      "rel": 17,
+      "type": 12,
+      "sizes": 3
+    },
+    "script": {
+      "src": 14,
+      "async": 1
+    },
+    "div": {
+      "id": 3,
+      "class": 64,
+      "data-x": 3,
+      "data-y": 3,
+      "data-hoffset": 3,
+      "data-voffset": 3,
+      "data-transform_in": 3,
+      "data-transform_idle": 3,
+      "data-transform_out": 3,
+      "data-start": 3,
+      "data-width": 1,
+      "data-height": 1,
+      "data-whitespace": 1,
+      "style": 1
+    },
+    "nav": {
+      "class": 1
+    },
+    "ul": {
+      "class": 6,
+      "role": 1
+    },
+    "a": {
+      "target": 10,
+      "href": 23,
+      "class": 3,
+      "data-toggle": 1,
+      "targe": 1,
+      "height": 1
+    },
+    "i": {
+      "class": 21
+    },
+    "li": {
+      "class": 5,
+      "data-transition": 1
+    },
+    "span": {
+      "class": 3
+    },
+    "button": {
+      "type": 2,
+      "class": 2,
+      "data-toggle": 1,
+      "data-target": 1
+    },
+    "img": {
+      "src": 14,
+      "alt": 13,
+      "data-bgfit": 1,
+      "data-bgposition": 1,
+      "data-bgrepeat": 1,
+      "class": 6,
+      "style": 4,
+      "height": 1
+    },
+    "section": {
+      "id": 1,
+      "class": 2
+    },
+    "h2": {
+      "class": 10
+    },
+    "p": {
+      "class": 4
+    },
+    "h3": {
+      "class": 3
+    },
+    "address": {
+      "class": 2
+    },
+    "h4": {
+      "class": 2
+    },
+    "form": {
+      "class": 1,
+      "method": 1
+    },
+    "input": {
+      "type": 2,
+      "class": 2,
+      "value": 1,
+      "name": 1,
+      "placeholder": 1,
+      "required": 1
+    }
+  },
+  "childrenCount": {
+    "html": {
+      "childrenCount": 2,
+      "children": {
+        "head": 1,
+        "body": 1
+      }
+    },
+    "head": {
+      "childrenCount": 32,
+      "children": {
+        "title": 1,
+        "meta": 10,
+        "link": 17,
+        "script": 4
+      }
+    },
+    "body": {
+      "childrenCount": 13,
+      "children": {
+        "div": 1,
+        "script": 12
+      }
+    },
+    "div": {
+      "childrenCount": 141,
+      "children": {
+        "a": 6,
+        "p": 27,
+        "input": 2,
+        "span": 1,
+        "h4": 2,
+        "div": 53,
+        "form": 1,
+        "ul": 5,
+        "img": 3,
+        "br": 4,
+        "address": 2,
+        "h2": 13,
+        "i": 9,
+        "h3": 3,
+        "button": 1,
+        "nav": 1,
+        "section": 7,
+        "footer": 1
+      }
+    },
+    "nav": {
+      "childrenCount": 2,
+      "children": {
+        "div": 2
+      }
+    },
+    "ul": {
+      "childrenCount": 15,
+      "children": {
+        "li": 15
+      }
+    },
+    "li": {
+      "childrenCount": 19,
+      "children": {
+        "a": 14,
+        "img": 1,
+        "div": 3,
+        "ul": 1
+      }
+    },
+    "a": {
+      "childrenCount": 16,
+      "children": {
+        "i": 5,
+        "img": 10,
+        "span": 1
+      }
+    },
+    "button": {
+      "childrenCount": 4,
+      "children": {
+        "i": 2,
+        "span": 2
+      }
+    },
+    "section": {
+      "childrenCount": 7,
+      "children": {
+        "div": 6,
+        "ul": 1
+      }
+    },
+    "footer": {
+      "childrenCount": 1,
+      "children": {
+        "div": 1
+      }
+    },
+    "address": {
+      "childrenCount": 5,
+      "children": {
+        "p": 5
+      }
+    },
+    "p": {
+      "childrenCount": 7,
+      "children": {
+        "a": 2,
+        "i": 5
+      }
+    },
+    "h4": {
+      "childrenCount": 1,
+      "children": {
+        "a": 1
+      }
+    },
+    "form": {
+      "childrenCount": 2,
+      "children": {
+        "div": 2
+      }
+    },
+    "span": {
+      "childrenCount": 1,
+      "children": {
+        "button": 1
+      }
+    }
+  },
+  "loadedResources": [
+    {
+      "path": "//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js",
+      "absolutePath": "https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js",
+      "tagName": "script",
+      "file": "cookieconsent.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileType": "application/javascript",
+        "lastModified": "Thu, 17 May 2018 09:18:32 GMT"
+      }
+    },
+    {
+      "path": "https://www.googletagmanager.com/gtag/js?id=UA-103234584-1",
+      "absolutePath": "https://www.googletagmanager.com/gtag/js?id=UA-103234584-1",
+      "tagName": "script",
+      "file": "js?id=UA-103234584-1",
+      "fileExtension": "",
+      "additionalInfo": {
+        "fileType": "application/javascript; charset=UTF-8"
+      }
+    },
+    {
+      "path": "assets/img/logo/logoTrueWifi.png",
+      "absolutePath": "https://truewifi.io/assets/img/logo/logoTrueWifi.png",
+      "tagName": "img",
+      "file": "logoTrueWifi.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "3050",
+        "fileType": "image/png",
+        "lastModified": "Mon, 09 Apr 2018 10:06:16 GMT"
+      }
+    },
+    {
+      "path": "assets/img/hero-unit/slide5.jpg",
+      "absolutePath": "https://truewifi.io/assets/img/hero-unit/slide5.jpg",
+      "tagName": "img",
+      "file": "slide5.jpg",
+      "fileExtension": ".jpg",
+      "additionalInfo": {
+        "fileSize": "143243",
+        "fileType": "image/jpeg",
+        "lastModified": "Mon, 14 May 2018 16:44:11 GMT"
+      }
+    },
+    {
+      "path": "/assets/img/slider-explain/truewifi-dash.png",
+      "absolutePath": "https://truewifi.io/assets/img/slider-explain/truewifi-dash.png",
+      "tagName": "img",
+      "file": "truewifi-dash.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "381039",
+        "fileType": "image/png",
+        "lastModified": "Wed, 05 Dec 2018 10:07:05 GMT"
+      }
+    },
+    {
+      "path": "/assets/img/slider-explain/login_preview.png",
+      "absolutePath": "https://truewifi.io/assets/img/slider-explain/login_preview.png",
+      "tagName": "img",
+      "file": "login_preview.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "234656",
+        "fileType": "image/png",
+        "lastModified": "Mon, 28 May 2018 10:00:50 GMT"
+      }
+    },
+    {
+      "path": "/assets/img/slider-explain/RouterConfig.png",
+      "absolutePath": "https://truewifi.io/assets/img/slider-explain/RouterConfig.png",
+      "tagName": "img",
+      "file": "RouterConfig.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "110824",
+        "fileType": "image/png",
+        "lastModified": "Mon, 28 May 2018 10:00:47 GMT"
+      }
+    },
+    {
+      "path": "assets/img/clients/cliente_apconsulting.png",
+      "absolutePath": "https://truewifi.io/assets/img/clients/cliente_apconsulting.png",
+      "tagName": "img",
+      "file": "cliente_apconsulting.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "3193",
+        "fileType": "image/png",
+        "lastModified": "Mon, 14 May 2018 16:43:58 GMT"
+      }
+    },
+    {
+      "path": "assets/img/clients/cliente_leixoessc.png",
+      "absolutePath": "https://truewifi.io/assets/img/clients/cliente_leixoessc.png",
+      "tagName": "img",
+      "file": "cliente_leixoessc.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "7989",
+        "fileType": "image/png",
+        "lastModified": "Mon, 14 May 2018 16:43:59 GMT"
+      }
+    },
+    {
+      "path": "assets/img/clients/cliente_rblink.png",
+      "absolutePath": "https://truewifi.io/assets/img/clients/cliente_rblink.png",
+      "tagName": "img",
+      "file": "cliente_rblink.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "4681",
+        "fileType": "image/png",
+        "lastModified": "Mon, 14 May 2018 16:43:59 GMT"
+      }
+    },
+    {
+      "path": "assets/img/clients/cliente_iparque.png",
+      "absolutePath": "https://truewifi.io/assets/img/clients/cliente_iparque.png",
+      "tagName": "img",
+      "file": "cliente_iparque.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "4440",
+        "fileType": "image/png",
+        "lastModified": "Mon, 14 May 2018 16:43:58 GMT"
+      }
+    },
+    {
+      "path": "assets/img/logo/logoTrueWifi.png",
+      "absolutePath": "https://truewifi.io/assets/img/logo/logoTrueWifi.png",
+      "tagName": "img",
+      "file": "logoTrueWifi.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "3050",
+        "fileType": "image/png",
+        "lastModified": "Mon, 09 Apr 2018 10:06:16 GMT"
+      }
+    },
+    {
+      "path": "assets/img/appstore.png",
+      "absolutePath": "https://truewifi.io/assets/img/appstore.png",
+      "tagName": "img",
+      "file": "appstore.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "4343",
+        "fileType": "image/png",
+        "lastModified": "Mon, 09 Apr 2018 10:06:07 GMT"
+      }
+    },
+    {
+      "path": "assets/img/googleplay.png",
+      "absolutePath": "https://truewifi.io/assets/img/googleplay.png",
+      "tagName": "img",
+      "file": "googleplay.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "3971",
+        "fileType": "image/png",
+        "lastModified": "Mon, 09 Apr 2018 10:06:12 GMT"
+      }
+    },
+    {
+      "path": "/assets/img/banners/banner574x150.png",
+      "absolutePath": "https://truewifi.io/assets/img/banners/banner574x150.png",
+      "tagName": "img",
+      "file": "banner574x150.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "24240",
+        "fileType": "image/png",
+        "lastModified": "Wed, 28 Nov 2018 12:40:23 GMT"
+      }
+    },
+    {
+      "path": "/assets/img/made_for_mikrotik.png",
+      "absolutePath": "https://truewifi.io/assets/img/made_for_mikrotik.png",
+      "tagName": "img",
+      "file": "made_for_mikrotik.png",
+      "fileExtension": ".png",
+      "additionalInfo": {
+        "fileSize": "25584",
+        "fileType": "image/png",
+        "lastModified": "Mon, 09 Apr 2018 10:29:47 GMT"
+      }
+    },
+    {
+      "path": "assets/js/jquery-2.1.1.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/jquery-2.1.1.min.js",
+      "tagName": "script",
+      "file": "jquery-2.1.1.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "84245",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:25 GMT"
+      }
+    },
+    {
+      "path": "assets/js/bootstrap.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/bootstrap.min.js",
+      "tagName": "script",
+      "file": "bootstrap.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "37045",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:23 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/easing/jquery.easing.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/easing/jquery.easing.min.js",
+      "tagName": "script",
+      "file": "jquery.easing.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "7050",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:34 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/parsley-validation/parsley.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/parsley-validation/parsley.min.js",
+      "tagName": "script",
+      "file": "parsley.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "39648",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:50 GMT"
+      }
+    },
+    {
+      "path": "assets/js/bravana.js",
+      "absolutePath": "https://truewifi.io/assets/js/bravana.js",
+      "tagName": "script",
+      "file": "bravana.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "25016",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:24 GMT"
+      }
+    },
+    {
+      "path": "assets/js/main.js",
+      "absolutePath": "https://truewifi.io/assets/js/main.js",
+      "tagName": "script",
+      "file": "main.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "1111",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 14 May 2018 16:00:54 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/revolution/js/jquery.themepunch.tools.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/revolution/js/jquery.themepunch.tools.min.js",
+      "tagName": "script",
+      "file": "jquery.themepunch.tools.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "104628",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:07:25 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/revolution/js/jquery.themepunch.revolution.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/revolution/js/jquery.themepunch.revolution.min.js",
+      "tagName": "script",
+      "file": "jquery.themepunch.revolution.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "54817",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:07:24 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/owl-carousel/owl.carousel.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/owl-carousel/owl.carousel.min.js",
+      "tagName": "script",
+      "file": "owl.carousel.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "23890",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:48 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/countto/jquery.countTo.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/countto/jquery.countTo.js",
+      "tagName": "script",
+      "file": "jquery.countTo.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "3761",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:32 GMT"
+      }
+    },
+    {
+      "path": "assets/js/plugins/jquery-waypoints/jquery.waypoints.min.js",
+      "absolutePath": "https://truewifi.io/assets/js/plugins/jquery-waypoints/jquery.waypoints.min.js",
+      "tagName": "script",
+      "file": "jquery.waypoints.min.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "8833",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 09 Apr 2018 10:06:45 GMT"
+      }
+    },
+    {
+      "path": "assets/js/index.js",
+      "absolutePath": "https://truewifi.io/assets/js/index.js",
+      "tagName": "script",
+      "file": "index.js",
+      "fileExtension": ".js",
+      "additionalInfo": {
+        "fileSize": "229",
+        "fileType": "application/javascript; charset=utf-8",
+        "lastModified": "Mon, 28 May 2018 09:59:24 GMT"
+      }
+    }
+  ]
+}
