@@ -1,7 +1,7 @@
 {
   "name": "url-scan",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
